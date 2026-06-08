@@ -1,0 +1,65 @@
+{
+  "audited_rows": 719,
+  "enhanced_direct_evidence_rows": 319,
+  "enhanced_reverse_evidence_rows": 90,
+  "candidate_changes_after_full_direct": 4,
+  "proposal_status_counts": {
+    "skip_low_priority_existing_direct": 664,
+    "keep_no_better_direct_candidate": 38,
+    "keep_current_after_rescore": 13,
+    "change_recommended": 4
+  },
+  "variant_summaries": [
+    {
+      "file": "submission_enhanced_add20.csv",
+      "selected_candidate_changes": 4,
+      "changed_vs_088455": 113,
+      "changed_vs_plus2": 64,
+      "changed_vs_full_direct_089595": 4,
+      "unique_labels": 530,
+      "illegal_labels": 0,
+      "empty_labels": 0
+    },
+    {
+      "file": "submission_enhanced_add40.csv",
+      "selected_candidate_changes": 4,
+      "changed_vs_088455": 113,
+      "changed_vs_plus2": 64,
+      "changed_vs_full_direct_089595": 4,
+      "unique_labels": 530,
+      "illegal_labels": 0,
+      "empty_labels": 0
+    },
+    {
+      "file": "submission_enhanced_add60.csv",
+      "selected_candidate_changes": 4,
+      "changed_vs_088455": 113,
+      "changed_vs_plus2": 64,
+      "changed_vs_full_direct_089595": 4,
+      "unique_labels": 530,
+      "illegal_labels": 0,
+      "empty_labels": 0
+    },
+    {
+      "file": "submission_enhanced_add80.csv",
+      "selected_candidate_changes": 4,
+      "changed_vs_088455": 113,
+      "changed_vs_plus2": 64,
+      "changed_vs_full_direct_089595": 4,
+      "unique_labels": 530,
+      "illegal_labels": 0,
+      "empty_labels": 0
+    },
+    {
+      "file": "submission_enhanced_add120.csv",
+      "selected_candidate_changes": 4,
+      "changed_vs_088455": 113,
+      "changed_vs_plus2": 64,
+      "changed_vs_full_direct_089595": 4,
+      "unique_labels": 530,
+      "illegal_labels": 0,
+      "empty_labels": 0
+    }
+  ],
+  "output_dir": "C:\\Users\\KaarleWilson\\Documents\\CTA\\wikidata_audit_output_repredict719_enhanced_round2"
+}

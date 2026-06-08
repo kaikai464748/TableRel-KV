@@ -1,0 +1,42 @@
+{
+  "raw_rows": 39233,
+  "raw_unique_pairs": 34896,
+  "within_file_duplicate_rows": 3881,
+  "cross_label_conflict_pairs_dropped": 449,
+  "clean_base_rows": 34447,
+  "audit_wikidata_examples_added": 2926,
+  "claim_cache_examples_added": 24110,
+  "final_rows": 61483,
+  "final_nonempty_labels": 560,
+  "output_dir": "C:\\Users\\KaarleWilson\\Documents\\CTA\\Train_Set_clean_augmented",
+  "report_dir": "C:\\Users\\KaarleWilson\\Documents\\CTA\\Train_Set_clean_augmented_reports",
+  "repair": {
+    "rare_repairs": {
+      "family name identical to this given name": {
+        "rare_label_added_rows": 0,
+        "conflicting_other_rows_removed": 0
+      },
+      "level of description": {
+        "rare_label_added_rows": 0,
+        "conflicting_other_rows_removed": 0
+      },
+      "recording or performance of": {
+        "rare_label_added_rows": 0,
+        "conflicting_other_rows_removed": 0
+      }
+    },
+    "austria_suicide_rate_rows_removed_keep_vat_rate": 1,
+    "final_rows_after_repair": 61515,
+    "final_unique_pairs_after_repair": 61358,
+    "final_cross_label_conflicts": 0,
+    "empty_labels_after_repair": []
+  },
+  "final_normalized_dedupe": {
+    "normalized_duplicate_rows_removed": 157,
+    "files_touched": 18
+  },
+  "final_rows_verified": 61358,
+  "final_nonempty_labels_verified": 563,
+  "max_label_rows": 5132,
+  "min_label_rows": 2
+}

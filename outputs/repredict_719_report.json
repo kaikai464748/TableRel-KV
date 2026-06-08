@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260525_235211",
+  "input_csv": "/root/autodl-tmp/0525/repredict_719_package/pending_719_for_model.csv",
+  "baseline_submission": "/root/autodl-tmp/0525/submission_0.88455.csv",
+  "model_basedir": "/root/autodl-tmp/0525/cpa_output_clean_aug",
+  "models": 8,
+  "rows": 719,
+  "top_k": 100,
+  "fused_prediction_csv": "/root/autodl-tmp/0525/outputs_719/pending_719_predicted_fused_20260525_235211.csv",
+  "per_model_wide_csv": "/root/autodl-tmp/0525/outputs_719/per_model_predictions_wide_20260525_235211.csv",
+  "fused_topk_long_csv": "/root/autodl-tmp/0525/outputs_719/top100_candidates_long_fused_20260525_235211.csv",
+  "label_distribution_csv": "/root/autodl-tmp/0525/outputs_719/pending_719_label_distribution_20260525_235211.csv",
+  "full_submission_csv": "/root/autodl-tmp/0525/outputs_719/submission_0.88455_repredict719_20260525_235211.csv"
+}

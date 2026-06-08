@@ -1,0 +1,87 @@
+﻿Subject,Object
+Adobe AIR,Android
+Adobe AIR,blackberry tablet os
+Adobe AIR,ios
+Adobe AIR,mac os
+Adobe AIR,microsoft windows
+Apple Watch,watchOS
+BZFlag,Linux
+BZFlag,mac os
+BZFlag,microsoft windows
+Find My iPhone,ios
+Find My iPhone,mac os
+FLTK,*nix
+FLTK,mac os
+FLTK,microsoft windows
+FLTK,Unix-like
+Freeciv,freebsd
+Freeciv,mac os
+Freeciv,OpenBSD
+Frozen Bubble,mac operating system
+GeoGebra,android
+GeoGebra,chromeos
+GeoGebra,ios
+GeoGebra,mac os
+GeoGebra,Microsoft Windows
+GNOME Maps,Unix-like
+GNU Emacs,*nix
+GNU Emacs,bsd
+GNU Emacs,cross-platform
+GNU Emacs,gnu plus linux
+GNU Emacs,gnu/hurd
+GNU Emacs,mac os
+GNU Emacs,macOS
+GNU Emacs,Microsoft Windows
+Google Glass,Android
+Google Glass,android key lime pie
+GTK,*nix
+GTK,gnu plus linux
+GTK,Linux
+GTK,mac os
+GTK,microsoft windows
+Huawei Mate,Android
+Huawei Mate,ark os
+Huawei P series,Android
+I2P,Android
+I2P,freebsd
+I2P,mac os
+I2P,microsoft windows
+I2P,openbsd
+iGap,Android
+iPhone 11,iOS 13
+iPhone 11 Pro,iOS 13
+KWrite,*nix
+KWrite,Unix-like
+Leafpad,*nix
+Leafpad,Unix-like
+Open Telecom Platform,cross-platform
+OpenTTD,Linux
+Panda3D,microsoft windows
+Photo Booth,mac os
+Pixel 2,Android Oreo
+Popcorn Time,Android
+Popcorn Time,mac os
+Popcorn Time,microsoft windows
+Qt,macOS
+Raspberry Pi,Raspbian
+RPyC,*nix
+RPyC,microsoft windows
+Samsung Gear,Android
+Samsung Gear,tizen
+SMath Studio,android
+SMath Studio,freebsd
+SMath Studio,ios
+SMath Studio,Microsoft Windows
+SMath Studio,microsoft windows mobile
+SMath Studio,uwp
+SymPy,*nix
+Tremulous,microsoft windows
+Unreal Engine,gnu plus linux
+Unreal Engine,GNU/Linux
+Unreal Engine,mac os
+Unreal Engine,microsoft windows
+Warzone 2100,gnu plus linux
+Wii,ios (wii operating system)
+Wii U,cafe os
+wxWidgets,macOS
+wxWidgets,Unix-like

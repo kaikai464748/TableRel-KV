@@ -1,0 +1,22 @@
+[
+  {
+    "file": "05_submit_final_verified_rescue.csv",
+    "rows": 4068,
+    "edits_vs_04": 27,
+    "unique_labels": 530,
+    "illegal_labels": 0,
+    "illegal_label_values": "",
+    "empty_labels": 0,
+    "change_report": "05_changes_final_verified_rescue.csv"
+  },
+  {
+    "file": "06_submit_final_max_rescue.csv",
+    "rows": 4068,
+    "edits_vs_04": 59,
+    "unique_labels": 531,
+    "illegal_labels": 0,
+    "illegal_label_values": "",
+    "empty_labels": 0,
+    "change_report": "06_changes_final_max_rescue.csv"
+  }
+]

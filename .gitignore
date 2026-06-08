@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.log
+tmp/
+cache/

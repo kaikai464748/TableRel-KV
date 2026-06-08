@@ -1,0 +1,12 @@
+{
+  "root": "C:\\Users\\KaarleWilson\\Documents\\CTA\\0525",
+  "train_dir": "C:\\Users\\KaarleWilson\\Documents\\CTA\\0525\\Train_Set_clean_augmented",
+  "train_files": 563,
+  "train_rows": 61358,
+  "labels": 563,
+  "pending_csv": "C:\\Users\\KaarleWilson\\Documents\\CTA\\0525\\repredict_719_package\\pending_719_for_model.csv",
+  "pending_rows": 719,
+  "baseline_submission": "C:\\Users\\KaarleWilson\\Documents\\CTA\\0525\\submission_0.88455.csv",
+  "baseline_rows": 4068,
+  "labels_txt": "C:\\Users\\KaarleWilson\\Documents\\CTA\\0525\\labels_from_train_clean_augmented.txt"
+}
